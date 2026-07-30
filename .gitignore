@@ -1,0 +1,96 @@
+./train.csv
+./test.csv
+./sample_submission.csv
+*.csv
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# =====================
+# Jupyter
+# =====================
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+
+# =====================
+# Environment
+# =====================
+.env
+.venv/
+env/
+venv/
+.conda/
+*.egg-info/
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# Outputs & experiments
+# =====================
+# Keep folder structure but ignore contents
+outputs/**/*
+!outputs/.gitkeep
+!outputs/experiments/.gitkeep
+!outputs/submissions/.gitkeep
+
+!outputs/experiments/**
+!sample_data.csv
+
+notebooks/oof_preds/**/*
+!notebooks/oof_preds/.gitkeep
+
+notebooks/pretrianed/**/*
+!notebooks/pretrianed/.gitkeep
+
+notebooks/outputs/**/*
+!notebooks/outputs/.gitkeep
+
+# Python cache
+src/__pycache__/
+
+# =====================
+# Data / Large files
+# =====================
+# Ignore raw datasets by default
+data/**/*
+!data/.gitkeep
+
+# ignore pretrained Models
+nlp/*.txt
+nlp/*.npz
+nlp/data/*.csv
+nlp/*.csv
+# Track small sample datasets manually if needed
+
+# =====================
+# Models / Checkpoints / Pickles
+# =====================
+# Ignore Autogluon / CatBoost / model outputs
+notebooks/AutogluonModels/
+notebooks/catboost_info/
+notebooks/models/
+*.npy
+*.csv       # optional: use Git LFS if needed
+*.zip
+*.h5
+*.pt
+*.ckpt
+*.pkl
+*.joblib
+
+# =====================
+# OS & IDE files
+# =====================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
