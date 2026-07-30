@@ -8,9 +8,9 @@ An end-to-end machine learning study on a large-scale, heavily-obfuscated insura
 
 # **Full Write-ups (PDF reports)**
 
-- [`supervised_learning.pdf`]([https://github.com/ismailSadouki/x42/blob/main/supervised_learning.pdf](https://github.com/ismailSadouki/insurance_claims_decisioning/blob/main/1.%20supervised%20learning.pdf)): full EDA, feature engineering, and modeling report.
-- [`Clustering_and_Dimensionality_Reduction_Analysis.pdf`]([https://github.com/ismailSadouki/x42/blob/main/Clustering_and_Dimensionality_Reduction_Analysis.pdf](https://github.com/ismailSadouki/insurance_claims_decisioning/blob/main/2.%20Clustering%20and%20Dimensionality%20Reduction%20Analysis.pdf)): full PCA/clustering report.
-- [`RL.pdf`]([https://github.com/ismailSadouki/x42/blob/main/RL.pdf](https://github.com/ismailSadouki/insurance_claims_decisioning/blob/main/3.%20RL.pdf)): full RL environment/agent report.
+- [`supervised_learning.pdf`](https://github.com/ismailSadouki/insurance_claims_decisioning/blob/main/1.%20supervised%20learning.pdf): full EDA, feature engineering, and modeling report.
+- [`Clustering_and_Dimensionality_Reduction_Analysis.pdf`](https://github.com/ismailSadouki/insurance_claims_decisioning/blob/main/2.%20Clustering%20and%20Dimensionality%20Reduction%20Analysis.pdf): full PCA/clustering report.
+- [`RL.pdf`](https://github.com/ismailSadouki/insurance_claims_decisioning/blob/main/3.%20RL.pdf): full RL environment/agent report.
 
 
 ## Project Files (In Order)
