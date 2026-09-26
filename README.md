@@ -24,11 +24,11 @@
 
 The deliverables for this project are three full analytical reports. Each is self-contained — readable without running any of the notebooks.
 
-| # | Report | Size | What it covers |
-|---|--------|-----:|----------------|
-| 1 | [`1. supervised learning.pdf`](./1.%20supervised%20learning.pdf) | 6.4 MB | Full EDA, missingness analysis, feature engineering (8 binary thresholds from CDF crossovers), 6 hyperparameter strategies, model benchmarking, error analysis, EDA-vs-error cross-reference, 5 final recommendations |
-| 2 | [`2. Clustering and Dimensionality Reduction Analysis.pdf`](./2.%20Clustering%20and%20Dimensionality%20Reduction%20Analysis.pdf) | 7.6 MB | PCA / Kernel PCA / Factor Analysis / t-SNE / UMAP / NMF / autoencoder benchmark, correlation-cluster diagnosis, 6 clustering methods with bootstrap stability, sub-cluster analysis |
-| 3 | [`3. RL.pdf`](./3.%20RL.pdf) | 283 KB | Full RL environment design (state / action / reward), Q-learning training, policy comparison, hybrid deployment recommendation |
+| # | Report | What it covers |
+|---|--------|----------------|
+| 1 | [`1. supervised learning.pdf`](./1.%20supervised%20learning.pdf) | Full EDA, missingness analysis, feature engineering (8 binary thresholds from CDF crossovers), 6 hyperparameter strategies, model benchmarking, error analysis, EDA-vs-error cross-reference, 5 final recommendations |
+| 2 | [`2. Clustering and Dimensionality Reduction Analysis.pdf`](./2.%20Clustering%20and%20Dimensionality%20Reduction%20Analysis.pdf) | PCA / Kernel PCA / Factor Analysis / t-SNE / UMAP / NMF / autoencoder benchmark, correlation-cluster diagnosis, 6 clustering methods with bootstrap stability, sub-cluster analysis |
+| 3 | [`3. RL.pdf`](./3.%20RL.pdf) | Full RL environment design (state / action / reward), Q-learning training, policy comparison, hybrid deployment recommendation |
 
 ---
 
